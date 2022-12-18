@@ -1,0 +1,210 @@
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+  min-height: calc(100vh - 80px);
+}
+ul {
+  list-style: none;
+}
+
+.left {
+  width: 40%;
+  float: left;
+  background-color: #f3f4f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right {
+  width: 60%;
+  float: right;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.block {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* header */
+
+header {
+  max-width: 1250px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+}
+.nav-default {
+  background-color: rgb(240, 174, 18, 1);
+}
+
+.nav-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 300px;
+}
+
+.nav-elements {
+  cursor: pointer;
+}
+
+.header-title {
+  font-size: 40px;
+  text-align: center;
+  font-family: "Acme", sans-serif;
+  margin-top: 40px;
+}
+
+.header-subtitle {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: "Acme", sans-serif;
+}
+
+.foto {
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+/* Contacts */
+
+.block-title {
+  margin-bottom: 20px;
+}
+
+.contact-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.contact-image-github {
+  background-image: url(/CV/imgs/contacts/github.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.contact-image-vk {
+  background-image: url(/CV/imgs/contacts/vk.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.contact-image-tg {
+  background-image: url(/CV/imgs/contacts/telegram.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.contact-image-mail {
+  background-image: url(/CV/imgs/contacts/email.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.contact-image-location {
+  background-image: url(/CV/imgs/contacts/map.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.block-education {
+  margin-top: 30px;
+}
+.education-element {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.date {
+  border-radius: 4px;
+  display: inline;
+  padding: 2px 10px;
+  background-color: #f0ae12;
+  margin-bottom: 10px;
+}
+
+.education__date {
+  margin-bottom: 10px;
+}
+
+.education-text {
+  margin-top: 7px;
+}
+
+.skills-element {
+  display: flex;
+  align-items: center;
+}
+.curcle {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.curcle-colored {
+  background-color: #f0ae12;
+}
+
+.curcle-gray {
+  background-color: #e1e1e1;
+}
+
+.block-languages {
+  margin-top: 20px;
+}
+
+.languages-elements {
+  display: flex;
+  align-items: center;
+}
+
+.curcle-languages {
+  margin-right: 5px;
+}
+
+.work-exp-head {
+  padding-bottom: 15px;
+}
+
+.work-exp-company {
+  margin-top: 10px;
+}
+
+.work-exp-skills:first-child {
+  margin-top: 10px;
+}
+
+.work-ul {
+  list-style: inside;
+}
+
+.work-exp-element {
+  margin-top: 40px;
+}
