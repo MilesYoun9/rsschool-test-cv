@@ -90,7 +90,7 @@ header {
   margin-bottom: 15px;
 }
 .contact-image-github {
-  background-image: url(/CV/imgs/contacts/github.svg);
+  background-image: url(/imgs/contacts/github.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 20px;
@@ -99,7 +99,7 @@ header {
 }
 
 .contact-image-vk {
-  background-image: url(/CV/imgs/contacts/vk.svg);
+  background-image: url(/imgs/contacts/vk.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 20px;
@@ -107,7 +107,7 @@ header {
   margin-right: 10px;
 }
 .contact-image-tg {
-  background-image: url(/CV/imgs/contacts/telegram.svg);
+  background-image: url(/imgs/contacts/telegram.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 20px;
@@ -116,7 +116,7 @@ header {
 }
 
 .contact-image-mail {
-  background-image: url(/CV/imgs/contacts/email.svg);
+  background-image: url(/imgs/contacts/email.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 20px;
@@ -125,7 +125,7 @@ header {
 }
 
 .contact-image-location {
-  background-image: url(/CV/imgs/contacts/map.svg);
+  background-image: url(/imgs/contacts/map.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 20px;
